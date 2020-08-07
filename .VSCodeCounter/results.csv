@@ -1,0 +1,11 @@
+"filename", "language", "PHP", "comment", "blank", "total"
+"/Users/joshtamers/.bitnami/stackman/machines/xampp/volumes/root/htdocs/gllms/application/models/Admin_model.php", "PHP", 30, 4, 15, 49
+"/Users/joshtamers/.bitnami/stackman/machines/xampp/volumes/root/htdocs/gllms/application/models/Class_model.php", "PHP", 27, 0, 22, 49
+"/Users/joshtamers/.bitnami/stackman/machines/xampp/volumes/root/htdocs/gllms/application/models/Crud_model.php", "PHP", 271, 6, 90, 367
+"/Users/joshtamers/.bitnami/stackman/machines/xampp/volumes/root/htdocs/gllms/application/models/Login_model.php", "PHP", 37, 0, 25, 62
+"/Users/joshtamers/.bitnami/stackman/machines/xampp/volumes/root/htdocs/gllms/application/models/Sections_model.php", "PHP", 29, 0, 22, 51
+"/Users/joshtamers/.bitnami/stackman/machines/xampp/volumes/root/htdocs/gllms/application/models/Setting_model.php", "PHP", 46, 4, 23, 73
+"/Users/joshtamers/.bitnami/stackman/machines/xampp/volumes/root/htdocs/gllms/application/models/Student_model.php", "PHP", 64, 0, 35, 99
+"/Users/joshtamers/.bitnami/stackman/machines/xampp/volumes/root/htdocs/gllms/application/models/Subject_model.php", "PHP", 27, 0, 22, 49
+"/Users/joshtamers/.bitnami/stackman/machines/xampp/volumes/root/htdocs/gllms/application/models/Teacher_model.php", "PHP", 30, 3, 21, 54
+"Total", "-", 561, 17, 275, 853
